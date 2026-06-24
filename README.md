@@ -28,6 +28,10 @@
   </a>
 </p>
 
+<p align="center">
+📧&nbsp;<code>ltmnguyet.131@gmail.com</code>&nbsp;&nbsp;|&nbsp;&nbsp;📱&nbsp;<code>0858 119 197</code>
+</p>
+
 </div>
 
 ---
