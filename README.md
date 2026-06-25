@@ -102,12 +102,7 @@ Front-End Developer turning complex ideas — real-time dashboards, multi-chain 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moonieew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moonieew&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+### 📈 Most Used Languages
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonieew&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
