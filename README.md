@@ -13,13 +13,16 @@
   <a href="https://www.linkedin.com/in/mooniee">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="mailto:ltmnguyet.131@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <a href="https://mnguyet.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
   </a>
   <a href="https://github.com/moonieew">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
   <br/><br/>
+  <a href="mailto:ltmnguyet.131@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
   <a href="https://www.instagram.com/minh___n">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
@@ -29,7 +32,7 @@
 </p>
 
 <p align="center">
-📧&nbsp;<code>ltmnguyet.131@gmail.com</code>&nbsp;&nbsp;|&nbsp;&nbsp;📱&nbsp;<code>0858 119 197</code>
+🌐&nbsp;<a href="https://mnguyet.vercel.app"><code>mnguyet.vercel.app</code></a>&nbsp;&nbsp;|&nbsp;&nbsp;📧&nbsp;<code>ltmnguyet.131@gmail.com</code>&nbsp;&nbsp;|&nbsp;&nbsp;📱&nbsp;<code>0858 119 197</code>
 </p>
 
 </div>
